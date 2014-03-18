@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aeon", "Aeon\Aeon.csproj", "{1EE7834C-76CB-4EA8-8B77-73BCB56BFC39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aeon.MassTransit", "Aeon.MassTransit\Aeon.MassTransit.csproj", "{CBCDD8AD-9E52-4F65-879B-A288DDB02988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aeon.MessageBus", "Aeon.MessageBus\Aeon.MessageBus.csproj", "{5494C1A2-A906-4B02-BF62-E6606DEBB96F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE7834C-76CB-4EA8-8B77-73BCB56BFC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE7834C-76CB-4EA8-8B77-73BCB56BFC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE7834C-76CB-4EA8-8B77-73BCB56BFC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE7834C-76CB-4EA8-8B77-73BCB56BFC39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBCDD8AD-9E52-4F65-879B-A288DDB02988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCDD8AD-9E52-4F65-879B-A288DDB02988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCDD8AD-9E52-4F65-879B-A288DDB02988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCDD8AD-9E52-4F65-879B-A288DDB02988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5494C1A2-A906-4B02-BF62-E6606DEBB96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5494C1A2-A906-4B02-BF62-E6606DEBB96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5494C1A2-A906-4B02-BF62-E6606DEBB96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5494C1A2-A906-4B02-BF62-E6606DEBB96F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
